@@ -3,7 +3,6 @@ package calculator;
  * This is the <b>simple</b> integer calculator app 
  * @author Usman Mushtaq
  * @since 03/01/2020
- * @deprecated Jdk 13 is available
  * @version 1.0
  */
 
