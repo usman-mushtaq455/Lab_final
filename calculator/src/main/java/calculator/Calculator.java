@@ -1,4 +1,11 @@
 package calculator;
+/**
+ * This is the <b>simple</b> integer calculator app 
+ * @author Usman Mushtaq
+ * @since 03/01/2020
+ * @deprecated Jdk 13 is available
+ * @version 1.0
+ */
 
 public class Calculator {
 	/***
@@ -45,9 +52,9 @@ public int square(int num) throws IllegalArgumentException {
  */
 
 public int cube(int num) {
-	
-	return num*num*num;
-	
+	int result;
+	result= num*num*num;
+	return result;
 }
 
 }
